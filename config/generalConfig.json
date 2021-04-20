@@ -1,0 +1,3 @@
+{
+    "mongoDB_URI": "mongodb+srv://user1:user1@cluster0.bbtcb.mongodb.net/acsg-server?retryWrites=true&w=majority"
+}
